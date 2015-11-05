@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ksu.Cis300.Scheduler", "Ksu.Cis300.Scheduler\Ksu.Cis300.Scheduler.csproj", "{8374C83D-FB4A-4987-A8BB-72C9E7679336}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://alex606.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Ksu.Cis300.Scheduler\\Ksu.Cis300.Scheduler.csproj
+		SccProjectName1 = Ksu.Cis300.Scheduler
+		SccLocalPath1 = Ksu.Cis300.Scheduler
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8374C83D-FB4A-4987-A8BB-72C9E7679336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8374C83D-FB4A-4987-A8BB-72C9E7679336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8374C83D-FB4A-4987-A8BB-72C9E7679336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8374C83D-FB4A-4987-A8BB-72C9E7679336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
